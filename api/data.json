@@ -1,0 +1,429 @@
+{
+  "account": [
+    {
+      "id": "1",
+      "fullname": "Seller Ganesh",
+      "email": "seller1@gmail.com",
+      "password": "123"
+    }
+  ],
+  "order": [
+    {
+      "id": "8ed0",
+      "fullname": "a",
+      "mobile": "b",
+      "email": "y",
+      "address": "erttty",
+      "itemlist": [
+        {
+          "id": "300d",
+          "name": "Mango",
+          "price": "90",
+          "photo": "mango.jpg",
+          "details": "Fresh",
+          "qty": 2
+        },
+        {
+          "id": "a6cd",
+          "name": "Papaya",
+          "price": "700",
+          "photo": "papaya.jpg",
+          "details": "Fresh",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "1dd3",
+      "fullname": "a",
+      "mobile": "b",
+      "email": "y",
+      "address": "erttty",
+      "itemlist": [
+        {
+          "id": "300d",
+          "name": "Mango",
+          "price": "90",
+          "photo": "mango.jpg",
+          "details": "Fresh",
+          "qty": 2
+        },
+        {
+          "id": "a6cd",
+          "name": "Papaya",
+          "price": "700",
+          "photo": "papaya.jpg",
+          "details": "Fresh",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "e010",
+      "fullname": "Sarika",
+      "mobile": "678904",
+      "email": "xyx@gmail.com",
+      "address": "Hoodi",
+      "itemlist": [
+        {
+          "id": "300d",
+          "name": "Mango",
+          "price": "90",
+          "photo": "mango.jpg",
+          "details": "Fresh",
+          "qty": 2
+        },
+        {
+          "id": "a6cd",
+          "name": "Papaya",
+          "price": "700",
+          "photo": "papaya.jpg",
+          "details": "Fresh",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "4b39",
+      "fullname": "Sarika",
+      "mobile": "56777",
+      "email": "xyz@b.com",
+      "address": "Bihar",
+      "itemlist": [
+        {
+          "id": "1eb8",
+          "name": "Apple",
+          "price": "200/-",
+          "photo": "apple.jpg",
+          "details": "Red & Fresh",
+          "qty": 1
+        },
+        {
+          "id": "300d",
+          "name": "Mango",
+          "price": "90",
+          "photo": "mango.jpg",
+          "details": "Fresh",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "9d24",
+      "fullname": "sarika",
+      "mobile": "4567890",
+      "email": "abc@gmail.com",
+      "address": "c3, Anugraha Layout, Whitefield, Bangalore",
+      "itemlist": [
+        {
+          "id": "a7fd",
+          "name": "Orange",
+          "price": "80",
+          "photo": "orange.jpg",
+          "details": "Fresh",
+          "qty": 1
+        },
+        {
+          "id": "1eb8",
+          "name": "Apple",
+          "price": "200/-",
+          "photo": "apple.jpg",
+          "details": "Red & Fresh",
+          "qty": 1
+        },
+        {
+          "id": "300d",
+          "name": "Mango",
+          "price": "90",
+          "photo": "mango.jpg",
+          "details": "Fresh",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "b91f",
+      "fullname": "sarika",
+      "mobile": "4567890",
+      "email": "abc@gmail.com",
+      "address": "c3, Anugraha Layout, Whitefield, Bangalore",
+      "itemlist": [
+        {
+          "id": "a7fd",
+          "name": "Orange",
+          "price": "80",
+          "photo": "orange.jpg",
+          "details": "Fresh",
+          "qty": 1
+        },
+        {
+          "id": "1eb8",
+          "name": "Apple",
+          "price": "200/-",
+          "photo": "apple.jpg",
+          "details": "Red & Fresh",
+          "qty": 1
+        },
+        {
+          "id": "300d",
+          "name": "Mango",
+          "price": "90",
+          "photo": "mango.jpg",
+          "details": "Fresh",
+          "qty": 2
+        }
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "c00b",
+      "name": "Onion",
+      "price": "38",
+      "photo": "onion.jpeg",
+      "details": "This is red and fresh.",
+      "qty": 2
+    },
+    {
+      "id": "6ac3",
+      "name": "Tomato",
+      "price": "55",
+      "photo": "tmtr.jpeg",
+      "details": "This is red and fresh.",
+      "qty": 2
+    },
+    {
+      "id": "f0d4",
+      "name": "Potato",
+      "price": "40",
+      "photo": "potato.jpeg",
+      "details": "It is fresh.",
+      "qty": 2
+    },
+    {
+      "id": "5d1a",
+      "name": "Pomegranet",
+      "price": "300",
+      "photo": "pmgnat.jpeg",
+      "details": "This is fresh.",
+      "qty": 2
+    },
+    {
+      "id": "9d9a",
+      "name": "Papaya",
+      "price": "45",
+      "photo": "papaya.jpg",
+      "details": "It is fresh.",
+      "qty": 2
+    },
+    {
+      "id": "9cbf",
+      "name": "Green Peas",
+      "price": "60",
+      "photo": "peas.jpeg",
+      "details": "This is green and fresh.",
+      "qty": 2
+    },
+    {
+      "id": "3f19",
+      "name": "Pumpkin",
+      "price": "45",
+      "photo": "pumkin.jpeg",
+      "details": "This is green and yellow.",
+      "qty": 2
+    },
+    {
+      "id": "6362",
+      "name": "Spinach",
+      "price": "35",
+      "photo": "plk.jpeg",
+      "details": "This is fresh and green.",
+      "qty": 2
+    },
+    {
+      "id": "fa72",
+      "name": "Orange",
+      "price": "300",
+      "photo": "orang.jpeg",
+      "details": "Thisg is fresh.",
+      "qty": 2
+    }
+  ],
+  "productlist": [
+    {
+      "id": "d2b4",
+      "name": "laptop dell",
+      "price": "50000",
+      "photo": "data:image/jpeg;base64,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",
+      "details": "This is strong lady"
+    },
+    {
+      "id": "f492",
+      "name": "Guava",
+      "price": "80rs",
+      "photo": "guva.jpeg",
+      "details": "It is green and fresh."
+    },
+    {
+      "id": "aa33",
+      "name": "Gala Apple",
+      "price": "200",
+      "photo": "aple.jpeg",
+      "details": "It is red and fresh."
+    },
+    {
+      "id": "3166",
+      "name": "Bitter Gaurd",
+      "price": "60",
+      "photo": "bitter.jpeg",
+      "details": "This is fresh and green."
+    },
+    {
+      "id": "f575",
+      "name": "Banana",
+      "price": "40",
+      "photo": "bnana.jpeg",
+      "details": "This is sweet and fresh."
+    },
+    {
+      "id": "e0f0",
+      "name": " Brinjal",
+      "price": "35",
+      "photo": "brnjl.jpeg",
+      "details": "This is fresh."
+    },
+    {
+      "id": "5e02",
+      "name": "Cauliflower",
+      "price": "30",
+      "photo": "cauli.jpeg",
+      "details": "Green and Fresh."
+    },
+    {
+      "id": "d08e",
+      "name": "Chilli",
+      "price": "120",
+      "photo": "chilli.jpeg",
+      "details": "This is long and fresh green chilli."
+    },
+    {
+      "id": "c6a0",
+      "name": "Cucumber",
+      "price": "40",
+      "photo": "cucumbr.jpeg",
+      "details": "This is green and fresh."
+    },
+    {
+      "id": "c262",
+      "name": "Coriender leaves",
+      "price": "100",
+      "photo": "dhania.jpeg",
+      "details": "This is green and fresh."
+    },
+    {
+      "id": "8d85",
+      "name": "Grapes",
+      "price": "80",
+      "photo": "grap.jpeg",
+      "details": "This is green and fresh."
+    },
+    {
+      "id": "7e47",
+      "name": "Brinjal",
+      "price": "40",
+      "photo": "greenbrnjl.jpeg",
+      "details": "This is long and green."
+    },
+    {
+      "id": "08e0",
+      "name": "Kiwi",
+      "price": "400",
+      "photo": "kiwi.jpeg",
+      "details": "This is fresh."
+    },
+    {
+      "id": "a7ba",
+      "name": "Bottle Guard",
+      "price": "20",
+      "photo": "lauki.jpeg",
+      "details": "This is green and fresh."
+    },
+    {
+      "id": "31e3",
+      "name": "Mango",
+      "price": "200",
+      "photo": "mngo.jpeg",
+      "details": "Malda mango fresh"
+    },
+    {
+      "id": "babe",
+      "name": "Lady's Finger",
+      "price": "35",
+      "photo": "okra.jpeg",
+      "details": "This is green and fresh."
+    },
+    {
+      "id": "c00b",
+      "name": "Onion",
+      "price": "38",
+      "photo": "onion.jpeg",
+      "details": "This is red and fresh."
+    },
+    {
+      "id": "fa72",
+      "name": "Orange",
+      "price": "300",
+      "photo": "orang.jpeg",
+      "details": "Thisg is fresh."
+    },
+    {
+      "id": "9d9a",
+      "name": "Papaya",
+      "price": "45",
+      "photo": "papaya.jpg",
+      "details": "It is fresh."
+    },
+    {
+      "id": "9cbf",
+      "name": "Green Peas",
+      "price": "60",
+      "photo": "peas.jpeg",
+      "details": "This is green and fresh."
+    },
+    {
+      "id": "6362",
+      "name": "Spinach",
+      "price": "35",
+      "photo": "plk.jpeg",
+      "details": "This is fresh and green."
+    },
+    {
+      "id": "5d1a",
+      "name": "Pomegranet",
+      "price": "300",
+      "photo": "pmgnat.jpeg",
+      "details": "This is fresh."
+    },
+    {
+      "id": "f0d4",
+      "name": "Potato",
+      "price": "40",
+      "photo": "potato.jpeg",
+      "details": "It is fresh."
+    },
+    {
+      "id": "3f19",
+      "name": "Pumpkin",
+      "price": "45",
+      "photo": "pumkin.jpeg",
+      "details": "This is green and yellow."
+    },
+    {
+      "id": "6ac3",
+      "name": "Tomato",
+      "price": "55",
+      "photo": "tmtr.jpeg",
+      "details": "This is red and fresh."
+    }
+  ]
+}
